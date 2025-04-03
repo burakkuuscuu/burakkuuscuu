@@ -1,0 +1,10 @@
+{
+    "url": "https://yourdomain.com/",
+    "name": "Fragment Clone",
+    "iconUrl": "https://yourdomain.com/icon.png",
+    "termsOfUseUrl": "https://yourdomain.com/terms.html",
+    "privacyPolicyUrl": "https://yourdomain.com/privacy.html",
+    "supportUrl": "https://yourdomain.com/support.html",
+    "platforms": ["telegram", "ios", "android", "desktop"],
+    "address": "UQDn7xfXJsbDRShW1sWyIsRZe3OxuGRNJPUFGupBGIRQFff2"
+  }
